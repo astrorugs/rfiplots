@@ -1,0 +1,387 @@
+0.221814, Hα	Hydrogen Recombination Line 	0.221814, 		H ( 309 ) α 			0 	Recomb
+0.223978, Hα	Hydrogen Recombination Line 	0.223978, 		H ( 308 ) α 			0 	Recomb
+0.22617, Hα	Hydrogen Recombination Line 	0.22617, 		H ( 307 ) α 			0 	Recomb
+0.228391, Hα	Hydrogen Recombination Line 	0.228391, 		H ( 306 ) α 			0 	Recomb
+0.230641, Hα	Hydrogen Recombination Line 	0.230641, 		H ( 305 ) α 			0 	Recomb
+0.232921, Hα	Hydrogen Recombination Line 	0.232921, 		H ( 304 ) α 			0 	Recomb
+0.235231, Hα	Hydrogen Recombination Line 	0.235231, 		H ( 303 ) α 			0 	Recomb
+0.237572, Hα	Hydrogen Recombination Line 	0.237572, 		H ( 302 ) α 			0 	Recomb
+0.239943, Hα	Hydrogen Recombination Line 	0.239943, 		H ( 301 ) α 			0 	Recomb
+0.242347, Hα	Hydrogen Recombination Line 	0.242347, 		H ( 300 ) α 			0 	Recomb
+0.244783, Hα	Hydrogen Recombination Line 	0.244783, 		H ( 299 ) α 			0 	Recomb
+0.247251, Hα	Hydrogen Recombination Line 	0.247251, 		H ( 298 ) α 			0 	Recomb
+0.249753, Hα	Hydrogen Recombination Line 	0.249753, 		H ( 297 ) α 			0 	Recomb
+0.252288, Hα	Hydrogen Recombination Line 	0.252288, 		H ( 296 ) α 			0 	Recomb
+0.254858, Hα	Hydrogen Recombination Line 	0.254858, 		H ( 295 ) α 			0 	Recomb
+0.257463, Hα	Hydrogen Recombination Line 	0.257463, 		H ( 294 ) α 			0 	Recomb
+0.260104, Hα	Hydrogen Recombination Line 	0.260104, 		H ( 293 ) α 			0 	Recomb
+0.262781, Hα	Hydrogen Recombination Line 	0.262781, 		H ( 292 ) α 			0 	Recomb
+0.265494, Hα	Hydrogen Recombination Line 	0.265494, 		H ( 291 ) α 			0 	Recomb
+0.268246, Hα	Hydrogen Recombination Line 	0.268246, 		H ( 290 ) α 			0 	Recomb
+0.271035, Hα	Hydrogen Recombination Line 	0.271035, 		H ( 289 ) α 			0 	Recomb
+0.273863, Hα	Hydrogen Recombination Line 	0.273863, 		H ( 288 ) α 			0 	Recomb
+0.276731, Hα	Hydrogen Recombination Line 	0.276731, 		H ( 287 ) α 			0 	Recomb
+0.279639, Hα	Hydrogen Recombination Line 	0.279639, 		H ( 286 ) α 			0 	Recomb
+0.282587, Hα	Hydrogen Recombination Line 	0.282587, 		H ( 285 ) α 			0 	Recomb
+0.285578, Hα	Hydrogen Recombination Line 	0.285578, 		H ( 284 ) α 			0 	Recomb
+0.28861, Hα	Hydrogen Recombination Line 	0.28861, 		H ( 283 ) α 			0 	Recomb
+0.291686, Hα	Hydrogen Recombination Line 	0.291686, 		H ( 282 ) α 			0 	Recomb
+0.294806, Hα	Hydrogen Recombination Line 	0.294806, 		H ( 281 ) α 			0 	Recomb
+0.29797, Hα	Hydrogen Recombination Line 	0.29797, 		H ( 280 ) α 			0 	Recomb
+0.30118, Hα	Hydrogen Recombination Line 	0.30118, 		H ( 279 ) α 			0 	Recomb
+0.304436, Hα	Hydrogen Recombination Line 	0.304436, 		H ( 278 ) α 			0 	Recomb
+0.307739, Hα	Hydrogen Recombination Line 	0.307739, 		H ( 277 ) α 			0 	Recomb
+0.31109, Hα	Hydrogen Recombination Line 	0.31109, 		H ( 276 ) α 			0 	Recomb
+0.31449, Hα	Hydrogen Recombination Line 	0.31449, 		H ( 275 ) α 			0 	Recomb
+0.317939, Hα	Hydrogen Recombination Line 	0.317939, 		H ( 274 ) α 			0 	Recomb
+0.32144, Hα	Hydrogen Recombination Line 	0.32144, 		H ( 273 ) α 			0 	Recomb
+0.324991, Hα	Hydrogen Recombination Line 	0.324991, 		H ( 272 ) α 			0 	Recomb
+0.328596, Hα	Hydrogen Recombination Line 	0.328596, 		H ( 271 ) α 			0 	Recomb
+0.332254, Hα	Hydrogen Recombination Line 	0.332254, 		H ( 270 ) α 			0 	Recomb
+0.335966, Hα	Hydrogen Recombination Line 	0.335966, 		H ( 269 ) α 			0 	Recomb
+0.339734, Hα	Hydrogen Recombination Line 	0.339734, 		H ( 268 ) α 			0 	Recomb
+0.343558, Hα	Hydrogen Recombination Line 	0.343558, 		H ( 267 ) α 			0 	Recomb
+0.34744, Hα	Hydrogen Recombination Line 	0.34744, 		H ( 266 ) α 			0 	Recomb
+0.351381, Hα	Hydrogen Recombination Line 	0.351381, 		H ( 265 ) α 			0 	Recomb
+0.355381, Hα	Hydrogen Recombination Line 	0.355381, 		H ( 264 ) α 			0 	Recomb
+0.359443, Hα	Hydrogen Recombination Line 	0.359443, 		H ( 263 ) α 			0 	Recomb
+0.363566, Hα	Hydrogen Recombination Line 	0.363566, 		H ( 262 ) α 			0 	Recomb
+0.367753, Hα	Hydrogen Recombination Line 	0.367753, 		H ( 261 ) α 			0 	Recomb
+0.372005, Hα	Hydrogen Recombination Line 	0.372005, 		H ( 260 ) α 			0 	Recomb
+0.376322, Hα	Hydrogen Recombination Line 	0.376322, 		H ( 259 ) α 			0 	Recomb
+0.380706, Hα	Hydrogen Recombination Line 	0.380706, 		H ( 258 ) α 			0 	Recomb
+0.385159, Hα	Hydrogen Recombination Line 	0.385159, 		H ( 257 ) α 			0 	Recomb
+0.389681, Hα	Hydrogen Recombination Line 	0.389681, 		H ( 256 ) α 			0 	Recomb
+0.394275, Hα	Hydrogen Recombination Line 	0.394275, 		H ( 255 ) α 			0 	Recomb
+0.398941, Hα	Hydrogen Recombination Line 	0.398941, 		H ( 254 ) α 			0 	Recomb
+0.403681, Hα	Hydrogen Recombination Line 	0.403681, 		H ( 253 ) α 			0 	Recomb
+0.408496, Hα	Hydrogen Recombination Line 	0.408496, 		H ( 252 ) α 			0 	Recomb
+0.413388, Hα	Hydrogen Recombination Line 	0.413388, 		H ( 251 ) α 			0 	Recomb
+0.418359, Hα	Hydrogen Recombination Line 	0.418359, 		H ( 250 ) α 			0 	Recomb
+0.423409, Hα	Hydrogen Recombination Line 	0.423409, 		H ( 249 ) α 			0 	Recomb
+0.428541, Hα	Hydrogen Recombination Line 	0.428541, 		H ( 248 ) α 			0 	Recomb
+0.433757, Hα	Hydrogen Recombination Line 	0.433757, 		H ( 247 ) α 			0 	Recomb
+0.439057, Hα	Hydrogen Recombination Line 	0.439057, 		H ( 246 ) α 			0 	Recomb
+0.444445, Hα	Hydrogen Recombination Line 	0.444445, 		H ( 245 ) α 			0 	Recomb
+0.44992, Hα	Hydrogen Recombination Line 	0.44992, 		H ( 244 ) α 			0 	Recomb
+0.455486, Hα	Hydrogen Recombination Line 	0.455486, 		H ( 243 ) α 			0 	Recomb
+0.461144, Hα	Hydrogen Recombination Line 	0.461144, 		H ( 242 ) α 			0 	Recomb
+0.466897, Hα	Hydrogen Recombination Line 	0.466897, 		H ( 241 ) α 			0 	Recomb
+0.472745, Hα	Hydrogen Recombination Line 	0.472745, 		H ( 240 ) α 			0 	Recomb
+0.478692, Hα	Hydrogen Recombination Line 	0.478692, 		H ( 239 ) α 			0 	Recomb
+0.484738, Hα	Hydrogen Recombination Line 	0.484738, 		H ( 238 ) α 			0 	Recomb
+0.490887, Hα	Hydrogen Recombination Line 	0.490887, 		H ( 237 ) α 			0 	Recomb
+0.49714, Hα	Hydrogen Recombination Line 	0.49714, 		H ( 236 ) α 			0 	Recomb
+0.5035, Hα	Hydrogen Recombination Line 	0.5035, 		H ( 235 ) α 			0 	Recomb
+0.509969, Hα	Hydrogen Recombination Line 	0.509969, 		H ( 234 ) α 			0 	Recomb
+0.516549, Hα	Hydrogen Recombination Line 	0.516549, 		H ( 233 ) α 			0 	Recomb
+0.523243, Hα	Hydrogen Recombination Line 	0.523243, 		H ( 232 ) α 			0 	Recomb
+0.530053, Hα	Hydrogen Recombination Line 	0.530053, 		H ( 231 ) α 			0 	Recomb
+0.536982, Hα	Hydrogen Recombination Line 	0.536982, 		H ( 230 ) α 			0 	Recomb
+0.544032, Hα	Hydrogen Recombination Line 	0.544032, 		H ( 229 ) α 			0 	Recomb
+0.551206, Hα	Hydrogen Recombination Line 	0.551206, 		H ( 228 ) α 			0 	Recomb
+0.558507, Hα	Hydrogen Recombination Line 	0.558507, 		H ( 227 ) α 			0 	Recomb
+0.565937, Hα	Hydrogen Recombination Line 	0.565937, 		H ( 226 ) α 			0 	Recomb
+0.5735, Hα	Hydrogen Recombination Line 	0.5735, 		H ( 225 ) α 			0 	Recomb
+0.581198, Hα	Hydrogen Recombination Line 	0.581198, 		H ( 224 ) α 			0 	Recomb
+0.589034, Hα	Hydrogen Recombination Line 	0.589034, 		H ( 223 ) α 			0 	Recomb
+0.597012, Hα	Hydrogen Recombination Line 	0.597012, 		H ( 222 ) α 			0 	Recomb
+0.605134, Hα	Hydrogen Recombination Line 	0.605134, 		H ( 221 ) α 			0 	Recomb
+0.613405, Hα	Hydrogen Recombination Line 	0.613405, 		H ( 220 ) α 			0 	Recomb
+0.621827, Hα	Hydrogen Recombination Line 	0.621827, 		H ( 219 ) α 			0 	Recomb
+0.630404, Hα	Hydrogen Recombination Line 	0.630404, 		H ( 218 ) α 			0 	Recomb
+0.639139, Hα	Hydrogen Recombination Line 	0.639139, 		H ( 217 ) α 			0 	Recomb
+0.648037, Hα	Hydrogen Recombination Line 	0.648037, 		H ( 216 ) α 			0 	Recomb
+0.6571, Hα	Hydrogen Recombination Line 	0.6571, 		H ( 215 ) α 			0 	Recomb
+0.666333, Hα	Hydrogen Recombination Line 	0.666333, 		H ( 214 ) α 			0 	Recomb
+0.67574, Hα	Hydrogen Recombination Line 	0.67574, 		H ( 213 ) α 			0 	Recomb
+0.685325, Hα	Hydrogen Recombination Line 	0.685325, 		H ( 212 ) α 			0 	Recomb
+0.695092, Hα	Hydrogen Recombination Line 	0.695092, 		H ( 211 ) α 			0 	Recomb
+0.705045, Hα	Hydrogen Recombination Line 	0.705045, 		H ( 210 ) α 			0 	Recomb
+0.71519, Hα	Hydrogen Recombination Line 	0.71519, 		H ( 209 ) α 			0 	Recomb
+0.72553, Hα	Hydrogen Recombination Line 	0.72553, 		H ( 208 ) α 			0 	Recomb
+0.73607, Hα	Hydrogen Recombination Line 	0.73607, 		H ( 207 ) α 			0 	Recomb
+0.746816, Hα	Hydrogen Recombination Line 	0.746816, 		H ( 206 ) α 			0 	Recomb
+0.757771, Hα	Hydrogen Recombination Line 	0.757771, 		H ( 205 ) α 			0 	Recomb
+0.768942, Hα	Hydrogen Recombination Line 	0.768942, 		H ( 204 ) α 			0 	Recomb
+0.780334, Hα	Hydrogen Recombination Line 	0.780334, 		H ( 203 ) α 			0 	Recomb
+0.791952, Hα	Hydrogen Recombination Line 	0.791952, 		H ( 202 ) α 			0 	Recomb
+0.803801, Hα	Hydrogen Recombination Line 	0.803801, 		H ( 201 ) α 			0 	Recomb
+0.815889, Hα	Hydrogen Recombination Line 	0.815889, 		H ( 200 ) α 			0 	Recomb
+0.828219, Hα	Hydrogen Recombination Line 	0.828219, 		H ( 199 ) α 			0 	Recomb
+0.8408, Hα	Hydrogen Recombination Line 	0.8408, 		H ( 198 ) α 			0 	Recomb
+0.853636, Hα	Hydrogen Recombination Line 	0.853636, 		H ( 197 ) α 			0 	Recomb
+0.866735, Hα	Hydrogen Recombination Line 	0.866735, 		H ( 196 ) α 			0 	Recomb
+0.880104, Hα	Hydrogen Recombination Line 	0.880104, 		H ( 195 ) α 			0 	Recomb
+0.893749, Hα	Hydrogen Recombination Line 	0.893749, 		H ( 194 ) α 			0 	Recomb
+0.907677, Hα	Hydrogen Recombination Line 	0.907677, 		H ( 193 ) α 			0 	Recomb
+0.921897, Hα	Hydrogen Recombination Line 	0.921897, 		H ( 192 ) α 			0 	Recomb
+0.936415, Hα	Hydrogen Recombination Line 	0.936415, 		H ( 191 ) α 			0 	Recomb
+0.951239, Hα	Hydrogen Recombination Line 	0.951239, 		H ( 190 ) α 			0 	Recomb
+0.966378, Hα	Hydrogen Recombination Line 	0.966378, 		H ( 189 ) α 			0 	Recomb
+0.98184, Hα	Hydrogen Recombination Line 	0.98184, 		H ( 188 ) α 			0 	Recomb
+0.997633, Hα	Hydrogen Recombination Line 	0.997633, 		H ( 187 ) α 			0 	Recomb
+1.013767, Hα	Hydrogen Recombination Line 	1.013767, 		H ( 186 ) α 			0 	Recomb
+1.030251, Hα	Hydrogen Recombination Line 	1.030251, 		H ( 185 ) α 			0 	Recomb
+1.047094, Hα	Hydrogen Recombination Line 	1.047094, 		H ( 184 ) α 			0 	Recomb
+1.064307, Hα	Hydrogen Recombination Line 	1.064307, 		H ( 183 ) α 			0 	Recomb
+1.081898, Hα	Hydrogen Recombination Line 	1.081898, 		H ( 182 ) α 			0 	Recomb
+1.09988, Hα	Hydrogen Recombination Line 	1.09988, 		H ( 181 ) α 			0 	Recomb
+1.118262, Hα	Hydrogen Recombination Line 	1.118262, 		H ( 180 ) α 			0 	Recomb
+1.137056, Hα	Hydrogen Recombination Line 	1.137056, 		H ( 179 ) α 			0 	Recomb
+1.156274, Hα	Hydrogen Recombination Line 	1.156274, 		H ( 178 ) α 			0 	Recomb
+1.175927, Hα	Hydrogen Recombination Line 	1.175927, 		H ( 177 ) α 			0 	Recomb
+1.196028, Hα	Hydrogen Recombination Line 	1.196028, 		H ( 176 ) α 			0 	Recomb
+1.21659, Hα	Hydrogen Recombination Line 	1.21659, 		H ( 175 ) α 			0 	Recomb
+1.237626, Hα	Hydrogen Recombination Line 	1.237626, 		H ( 174 ) α 			0 	Recomb
+1.25915, Hα	Hydrogen Recombination Line 	1.25915, 		H ( 173 ) α 			0 	Recomb
+1.281175, Hα	Hydrogen Recombination Line 	1.281175, 		H ( 172 ) α 			0 	Recomb
+1.303718, Hα	Hydrogen Recombination Line 	1.303718, 		H ( 171 ) α 			0 	Recomb
+1.326792, Hα	Hydrogen Recombination Line 	1.326792, 		H ( 170 ) α 			0 	Recomb
+1.350414, Hα	Hydrogen Recombination Line 	1.350414, 		H ( 169 ) α 			0 	Recomb
+1.3746, Hα	Hydrogen Recombination Line 	1.3746, 		H ( 168 ) α 			0 	Recomb
+1.399368, Hα	Hydrogen Recombination Line 	1.399368, 		H ( 167 ) α 			0 	Recomb
+1.424734, Hα	Hydrogen Recombination Line 	1.424734, 		H ( 166 ) α 			0 	Recomb
+1.450716, Hα	Hydrogen Recombination Line 	1.450716, 		H ( 165 ) α 			0 	Recomb
+1.477335, Hα	Hydrogen Recombination Line 	1.477335, 		H ( 164 ) α 			0 	Recomb
+1.504608, Hα	Hydrogen Recombination Line 	1.504608, 		H ( 163 ) α 			0 	Recomb
+1.532557, Hα	Hydrogen Recombination Line 	1.532557, 		H ( 162 ) α 			0 	Recomb
+1.561203, Hα	Hydrogen Recombination Line 	1.561203, 		H ( 161 ) α 			0 	Recomb
+1.590567, Hα	Hydrogen Recombination Line 	1.590567, 		H ( 160 ) α 			0 	Recomb
+1.620672, Hα	Hydrogen Recombination Line 	1.620672, 		H ( 159 ) α 			0 	Recomb
+1.651541, Hα	Hydrogen Recombination Line 	1.651541, 		H ( 158 ) α 			0 	Recomb
+1.6832, Hα	Hydrogen Recombination Line 	1.6832, 		H ( 157 ) α 			0 	Recomb
+1.715672, Hα	Hydrogen Recombination Line 	1.715672, 		H ( 156 ) α 			0 	Recomb
+1.748986, Hα	Hydrogen Recombination Line 	1.748986, 		H ( 155 ) α 			0 	Recomb
+1.783168, Hα	Hydrogen Recombination Line 	1.783168, 		H ( 154 ) α 			0 	Recomb
+1.818246, Hα	Hydrogen Recombination Line 	1.818246, 		H ( 153 ) α 			0 	Recomb
+1.85425, Hα	Hydrogen Recombination Line 	1.85425, 		H ( 152 ) α 			0 	Recomb
+1.891212, Hα	Hydrogen Recombination Line 	1.891212, 		H ( 151 ) α 			0 	Recomb
+1.929162, Hα	Hydrogen Recombination Line 	1.929162, 		H ( 150 ) α 			0 	Recomb
+1.968134, Hα	Hydrogen Recombination Line 	1.968134, 		H ( 149 ) α 			0 	Recomb
+2.008163, Hα	Hydrogen Recombination Line 	2.008163, 		H ( 148 ) α 			0 	Recomb
+2.049285, Hα	Hydrogen Recombination Line 	2.049285, 		H ( 147 ) α 			0 	Recomb
+2.091538, Hα	Hydrogen Recombination Line 	2.091538, 		H ( 146 ) α 			0 	Recomb
+2.13496, Hα	Hydrogen Recombination Line 	2.13496, 		H ( 145 ) α 			0 	Recomb
+2.179593, Hα	Hydrogen Recombination Line 	2.179593, 		H ( 144 ) α 			0 	Recomb
+2.225478, Hα	Hydrogen Recombination Line 	2.225478, 		H ( 143 ) α 			0 	Recomb
+2.272661, Hα	Hydrogen Recombination Line 	2.272661, 		H ( 142 ) α 			0 	Recomb
+2.321187, Hα	Hydrogen Recombination Line 	2.321187, 		H ( 141 ) α 			0 	Recomb
+2.371104, Hα	Hydrogen Recombination Line 	2.371104, 		H ( 140 ) α 			0 	Recomb
+2.422463, Hα	Hydrogen Recombination Line 	2.422463, 		H ( 139 ) α 			0 	Recomb
+2.475315, Hα	Hydrogen Recombination Line 	2.475315, 		H ( 138 ) α 			0 	Recomb
+2.529717, Hα	Hydrogen Recombination Line 	2.529717, 		H ( 137 ) α 			0 	Recomb
+2.585724, Hα	Hydrogen Recombination Line 	2.585724, 		H ( 136 ) α 			0 	Recomb
+2.643398, Hα	Hydrogen Recombination Line 	2.643398, 		H ( 135 ) α 			0 	Recomb
+2.702799, Hα	Hydrogen Recombination Line 	2.702799, 		H ( 134 ) α 			0 	Recomb
+2.763993, Hα	Hydrogen Recombination Line 	2.763993, 		H ( 133 ) α 			0 	Recomb
+2.827049, Hα	Hydrogen Recombination Line 	2.827049, 		H ( 132 ) α 			0 	Recomb
+2.892037, Hα	Hydrogen Recombination Line 	2.892037, 		H ( 131 ) α 			0 	Recomb
+2.959033, Hα	Hydrogen Recombination Line 	2.959033, 		H ( 130 ) α 			0 	Recomb
+3.028114, Hα	Hydrogen Recombination Line 	3.028114, 		H ( 129 ) α 			0 	Recomb
+3.099362, Hα	Hydrogen Recombination Line 	3.099362, 		H ( 128 ) α 			0 	Recomb
+3.172863, Hα	Hydrogen Recombination Line 	3.172863, 		H ( 127 ) α 			0 	Recomb
+3.248707, Hα	Hydrogen Recombination Line 	3.248707, 		H ( 126 ) α 			0 	Recomb
+3.326987, Hα	Hydrogen Recombination Line 	3.326987, 		H ( 125 ) α 			0 	Recomb
+3.407803, Hα	Hydrogen Recombination Line 	3.407803, 		H ( 124 ) α 			0 	Recomb
+3.491258, Hα	Hydrogen Recombination Line 	3.491258, 		H ( 123 ) α 			0 	Recomb
+3.57746, Hα	Hydrogen Recombination Line 	3.57746, 		H ( 122 ) α 			0 	Recomb
+3.666523, Hα	Hydrogen Recombination Line 	3.666523, 		H ( 121 ) α 			0 	Recomb
+3.758568, Hα	Hydrogen Recombination Line 	3.758568, 		H ( 120 ) α 			0 	Recomb
+3.853719, Hα	Hydrogen Recombination Line 	3.853719, 		H ( 119 ) α 			0 	Recomb
+3.952109, Hα	Hydrogen Recombination Line 	3.952109, 		H ( 118 ) α 			0 	Recomb
+4.053878, Hα	Hydrogen Recombination Line 	4.053878, 		H ( 117 ) α 			0 	Recomb
+4.159171, Hα	Hydrogen Recombination Line 	4.159171, 		H ( 116 ) α 			0 	Recomb
+4.268142, Hα	Hydrogen Recombination Line 	4.268142, 		H ( 115 ) α 			0 	Recomb
+4.380954, Hα	Hydrogen Recombination Line 	4.380954, 		H ( 114 ) α 			0 	Recomb
+4.497776, Hα	Hydrogen Recombination Line 	4.497776, 		H ( 113 ) α 			0 	Recomb
+4.618789, Hα	Hydrogen Recombination Line 	4.618789, 		H ( 112 ) α 			0 	Recomb
+4.744183, Hα	Hydrogen Recombination Line 	4.744183, 		H ( 111 ) α 			0 	Recomb
+4.874157, Hα	Hydrogen Recombination Line 	4.874157, 		H ( 110 ) α 			0 	Recomb
+5.008922, Hα	Hydrogen Recombination Line 	5.008922, 		H ( 109 ) α 			0 	Recomb
+5.148702, Hα	Hydrogen Recombination Line 	5.148702, 		H ( 108 ) α 			0 	Recomb
+5.293732, Hα	Hydrogen Recombination Line 	5.293732, 		H ( 107 ) α 			0 	Recomb
+5.44426, Hα	Hydrogen Recombination Line 	5.44426, 		H ( 106 ) α 			0 	Recomb
+5.60055, Hα	Hydrogen Recombination Line 	5.60055, 		H ( 105 ) α 			0 	Recomb
+5.76288, Hα	Hydrogen Recombination Line 	5.76288, 		H ( 104 ) α 			0 	Recomb
+5.931544, Hα	Hydrogen Recombination Line 	5.931544, 		H ( 103 ) α 			0 	Recomb
+6.106855, Hα	Hydrogen Recombination Line 	6.106855, 		H ( 102 ) α 			0 	Recomb
+6.289143, Hα	Hydrogen Recombination Line 	6.289143, 		H ( 101 ) α 			0 	Recomb
+6.478759, Hα	Hydrogen Recombination Line 	6.478759, 		H ( 100 ) α 			0 	Recomb
+6.676075, Hα	Hydrogen Recombination Line 	6.676075, 		H ( 99 ) α 			0 	Recomb
+6.881486, Hα	Hydrogen Recombination Line 	6.881486, 		H ( 98 ) α 			0 	Recomb
+7.095411, Hα	Hydrogen Recombination Line 	7.095411, 		H ( 97 ) α 			0 	Recomb
+7.318295, Hα	Hydrogen Recombination Line 	7.318295, 		H ( 96 ) α 			0 	Recomb
+7.550613, Hα	Hydrogen Recombination Line 	7.550613, 		H ( 95 ) α 			0 	Recomb
+7.79287, Hα	Hydrogen Recombination Line 	7.79287, 		H ( 94 ) α 			0 	Recomb
+8.045602, Hα	Hydrogen Recombination Line 	8.045602, 		H ( 93 ) α 			0 	Recomb
+8.309382, Hα	Hydrogen Recombination Line 	8.309382, 		H ( 92 ) α 			0 	Recomb
+8.58482, Hα	Hydrogen Recombination Line 	8.58482, 		H ( 91 ) α 			0 	Recomb
+8.872568, Hα	Hydrogen Recombination Line 	8.872568, 		H ( 90 ) α 			0 	Recomb
+9.17332, Hα	Hydrogen Recombination Line 	9.17332, 		H ( 89 ) α 			0 	Recomb
+9.48782, Hα	Hydrogen Recombination Line 	9.48782, 		H ( 88 ) α 			0 	Recomb
+9.816863, Hα	Hydrogen Recombination Line 	9.816863, 		H ( 87 ) α 			0 	Recomb
+10.161299, Hα	Hydrogen Recombination Line 	10.161299, 		H ( 86 ) α 			0 	Recomb
+10.522039, Hα	Hydrogen Recombination Line 	10.522039, 		H ( 85 ) α 			0 	Recomb
+10.900059, Hα	Hydrogen Recombination Line 	10.900059, 		H ( 84 ) α 			0 	Recomb
+11.296405, Hα	Hydrogen Recombination Line 	11.296405, 		H ( 83 ) α 			0 	Recomb
+11.712203, Hα	Hydrogen Recombination Line 	11.712203, 		H ( 82 ) α 			0 	Recomb
+12.148661, Hα	Hydrogen Recombination Line 	12.148661, 		H ( 81 ) α 			0 	Recomb
+12.607077, Hα	Hydrogen Recombination Line 	12.607077, 		H ( 80 ) α 			0 	Recomb
+13.088851, Hα	Hydrogen Recombination Line 	13.088851, 		H ( 79 ) α 			0 	Recomb
+13.595488, Hα	Hydrogen Recombination Line 	13.595488, 		H ( 78 ) α 			0 	Recomb
+14.128615, Hα	Hydrogen Recombination Line 	14.128615, 		H ( 77 ) α 			0 	Recomb
+14.689985, Hα	Hydrogen Recombination Line 	14.689985, 		H ( 76 ) α 			0 	Recomb
+15.281493, Hα	Hydrogen Recombination Line 	15.281493, 		H ( 75 ) α 			0 	Recomb
+15.90519, Hα	Hydrogen Recombination Line 	15.90519, 		H ( 74 ) α 			0 	Recomb
+16.563294, Hα	Hydrogen Recombination Line 	16.563294, 		H ( 73 ) α 			0 	Recomb
+17.258214, Hα	Hydrogen Recombination Line 	17.258214, 		H ( 72 ) α 			0 	Recomb
+17.992557, Hα	Hydrogen Recombination Line 	17.992557, 		H ( 71 ) α 			0 	Recomb
+18.769162, Hα	Hydrogen Recombination Line 	18.769162, 		H ( 70 ) α 			0 	Recomb
+19.591112, Hα	Hydrogen Recombination Line 	19.591112, 		H ( 69 ) α 			0 	Recomb
+20.461766, Hα	Hydrogen Recombination Line 	20.461766, 		H ( 68 ) α 			0 	Recomb
+21.384785, Hα	Hydrogen Recombination Line 	21.384785, 		H ( 67 ) α 			0 	Recomb
+22.364166, Hα	Hydrogen Recombination Line 	22.364166, 		H ( 66 ) α 			0 	Recomb
+23.404279, Hα	Hydrogen Recombination Line 	23.404279, 		H ( 65 ) α 			0 	Recomb
+24.509903, Hα	Hydrogen Recombination Line 	24.509903, 		H ( 64 ) α 			0 	Recomb
+25.686281, Hα	Hydrogen Recombination Line 	25.686281, 		H ( 63 ) α 			0 	Recomb
+26.939162, Hα	Hydrogen Recombination Line 	26.939162, 		H ( 62 ) α 			0 	Recomb
+28.27487, Hα	Hydrogen Recombination Line 	28.27487, 		H ( 61 ) α 			0 	Recomb
+29.700362, Hα	Hydrogen Recombination Line 	29.700362, 		H ( 60 ) α 			0 	Recomb
+31.223313, Hα	Hydrogen Recombination Line 	31.223313, 		H ( 59 ) α 			0 	Recomb
+32.852196, Hα	Hydrogen Recombination Line 	32.852196, 		H ( 58 ) α 			0 	Recomb
+34.596383, Hα	Hydrogen Recombination Line 	34.596383, 		H ( 57 ) α 			0 	Recomb
+36.46626, Hα	Hydrogen Recombination Line 	36.46626, 		H ( 56 ) α 			0 	Recomb
+38.473358, Hα	Hydrogen Recombination Line 	38.473358, 		H ( 55 ) α 			0 	Recomb
+40.630498, Hα	Hydrogen Recombination Line 	40.630498, 		H ( 54 ) α 			0 	Recomb
+42.951968, Hα	Hydrogen Recombination Line 	42.951968, 		H ( 53 ) α 			0 	Recomb
+45.453719, Hα	Hydrogen Recombination Line 	45.453719, 		H ( 52 ) α 			0 	Recomb
+48.153597, Hα	Hydrogen Recombination Line 	48.153597, 		H ( 51 ) α 			0 	Recomb
+1.612231, OH v=0	Hydroxyl 	1.612231 (0.002), 		J=3/2, Ω=3/2, F= 1+- 2-		-0.80 	0 	Lovas
+1.6654018, OH v=0	Hydroxyl 	1.6654018 (1.0E-4), 		J=3/2, Ω=3/2, F= 1+- 1-		-5.15 	0 	Lovas
+1.667359, OH v=0	Hydroxyl 	1.667359 (0.001), 		J=3/2, Ω=3/2, F= 2+- 2-		-6.30 	0 	Lovas
+1.72053, OH v=0	Hydroxyl 	1.72053 (0.01), 		J=3/2, Ω=3/2, F= 2+- 1-		-1.10 	0 	Lovas
+4.660242, OH v=0	Hydroxyl 	4.660242 (0.003), 		J=1/2, Ω=1/2, F= 0-- 1+		0.3 	0 	Lovas
+4.750656, OH v=0	Hydroxyl 	4.750656 (0.003), 		J=1/2, Ω=1/2, F= 1-- 1+		0.3e 	0 	Lovas
+4.765562, OH v=0	Hydroxyl 	4.765562 (0.003), 		J=1/2, Ω=1/2, F= 1-- 0+		1.7 	0 	Lovas
+6.016746, OH v=0	Hydroxyl 	6.016746 (0.008), 		J=5/2, Ω=3/2, F= 2-- 3+		-0.12 	0 	Lovas
+6.030747, OH v=0	Hydroxyl 	6.030747 (0.005), 		J=5/2, Ω=3/2, F= 2-- 2+		7. 	0 	Lovas
+6.035092, OH v=0	Hydroxyl 	6.035092 (0.005), 		J=5/2, Ω=3/2, F= 3-- 3+		20. 	0 	Lovas
+6.049084, OH v=0	Hydroxyl 	6.049084 (0.008), 		J=5/2, Ω=3/2, F= 3-- 2+		0.04 	0 	Lovas
+7.761747, OH v=0	Hydroxyl 	7.761747 (0.005), 		J=3/2, Ω=1/2, F= 1+- 1-		-0.10 	0 	Lovas
+7.820125, OH v=0	Hydroxyl 	7.820125 (0.005), 		J=3/2, Ω=1/2, F= 2+- 2-		-0.026 	0 	Lovas
+8.13587, OH v=0	Hydroxyl 	8.13587 (0.05), 		J=5/2, Ω=1/2, F= 2-- 2+		-0.031 	0 	Lovas
+8.189587, OH v=0	Hydroxyl 	8.189587 (0.005), 		J=5/2, Ω=1/2, F= 3-- 3+		+0.009 	0 	Lovas
+13.434596, OH v=0	Hydroxyl 	13.434596 (0.01), 		J=7/2, Ω=3/2, F= 3+- 3-		-0.20 	0 	Lovas
+13.4414173, OH v=0	Hydroxyl 	13.4414173 (2.0E-4), 		J=7/2, Ω=3/2, F= 4+- 4-		3.2 	0 	Lovas
+23.8176153, OH v=0	Hydroxyl 	23.8176153 (0.002), 		J=9/2, Ω=3/2, F= 4-- 4+		-0.05 	0 	Lovas
+23.8266211, OH v=0	Hydroxyl 	23.8266211 (0.003), 		J=9/2, Ω=3/2, F= 5-- 5+		-0.13 	0 	Lovas
+4.8296412, H2CO	Formaldehyde 	4.8296412 (2.0E-4), 		1(1,0)-1(1,1), F=1-0	0 	-0.2 	Lovas
+4.8296587, H2CO	Formaldehyde 	4.8296587 (2.0E-4), 		1(1,0)-1(1,1), F=0-1	0 	b 	Lovas
+4.8296594, H2CO	Formaldehyde 	4.8296594 (2.0E-4), 		1(1,0)-1(1,1), F=2-2	0 	b 	Lovas
+4.8296639, H2CO	Formaldehyde 	4.8296639 (2.0E-4), 		1(1,0)-1(1,1), F=2-1	0 	-0.8b 	Lovas
+4.8296664, H2CO	Formaldehyde 	4.8296664 (2.0E-4), 		1(1,0)-1(1,1), F=1-2	0 	b 	Lovas
+4.829671, H2CO	Formaldehyde 	4.829671 (0.002), 		1(1,0)-1(1,1), F=1-1	0 	b 	Lovas
+14.4884589, H2CO	Formaldehyde 	14.4884589 (2.0E-4), 		2(1,1)-2(1,2), F=1-1	0 	b 	Lovas
+14.4884712, H2CO	Formaldehyde 	14.4884712 (2.0E-4), 		2(1,1)-2(1,2), F=1-2	0 	b 	Lovas
+14.4884801, H2CO	Formaldehyde 	14.4884801 (2.0E-4), 		2(1,1)-2(1,2), F=3-3	0 	-1.3b 	Lovas
+14.4884899, H2CO	Formaldehyde 	14.4884899 (2.0E-4), 		2(1,1)-2(1,2), F=2-2	0 	b 	Lovas
+28.974781, H2CO	Formaldehyde 	28.974781 (0.003), 		3(1,2)-3(1,3), F=2-2	0 	b 	Lovas
+28.974804, H2CO	Formaldehyde 	28.974804 (0.002), 		3(1,2)-3(1,3), F=4-4	0 	n.r.b 	Lovas
+28.974814, H2CO	Formaldehyde 	28.974814 (0.003), 		3(1,2)-3(1,3), F=3-3	0 	b 	Lovas
+48.284522, H2CO	Formaldehyde 	48.284522 (0.003), 		4(1,3)-4(1,4)	0 	0.63 	Lovas
+22.235044, H2O v=0	Water 	22.235044 (0.001), 		6(1,6)-5(2,3), F=7-6	0 	b 	Lovas
+22.2350771, H2O v=0	Water 	22.2350771 (1.0E-4), 		6(1,6)-5(2,3), F=6-5	0 	b 	Lovas
+22.2351204, H2O v=0	Water 	22.2351204 (1.0E-4), 		6(1,6)-5(2,3), F=5-4	0 	2000i 	Lovas
+22.235253, H2O v=0	Water 	22.235253 (0.001), 		6(1,6)-5(2,3), F=6-6	0 	b 	Lovas
+22.2352977, H2O v=0	Water 	22.2352977 (1.0E-4), 		6(1,6)-5(2,3), F=5-5	0 	b 	Lovas
+1.42040575, H-atom	Atomic Hydrogen 		1.42040575 (0.0), 	2S1/2, F=1-0	-14.54125 		JPL
+43.423853, SiO v = 0 	Silicon Monoxide 	43.423853 (0.002), 		1-0 	0 	0.50 	Lovas
+43.12209, SiO v = 1 	Silicon Monoxide 	43.12209 (0.02), 		1-0 	0 	29.i 	Lovas
+42.82057, SiO v = 2 	Silicon Monoxide 	42.82057 (0.02), 		1-0 	0 	15.i 	Lovas
+6.6685192, CH3OH vt = 0-2	Methanol 	6.6685192 (0.008), 		5(1,5)-6(0,6) ++	0 	3880e 	Lovas
+12.178593, CH3OH vt = 0-2	Methanol 	12.178593 (0.004), 		2(0,2)-3(-1,3) 	0 	429. e 	Lovas
+19.967396, CH3OH vt = 0-2	Methanol 	19.967396 (0.002), 		2(1,1)-3(0,3) 	0 	73.2 	Lovas
+23.121024, CH3OH vt = 0-2	Methanol 	23.121024 (0.002), 		9(2,7)-10(1,10) ++	0 	9.5 e 	Lovas
+28.316031, CH3OH vt = 0-2	Methanol 	28.316031 (0.008), 		4(0,4)-3(1,2) 	0 	4.2e 	Lovas
+36.16929, CH3OH vt = 0-2	Methanol 	36.16929 (0.014), 		4(-1,4)-3(0,3) 	0 	12.5 	Lovas
+38.452653, CH3OH vt = 0-2	Methanol 	38.452653 (0.014), 		6(2,4)-5(3,3) ++	0 	15.0e 	Lovas
+0.701679, CH 2Π v=0,1 states	Methylidyne 	0.701679 (0.004), 		N= 1, J=3/2-3/2, F= 2-- 2+, v = 0, 2Π3/2 -> 2Π3/2	0 	-0.6 	Lovas
+0.704175, CH 2Π v=0,1 states	Methylidyne 	0.704175 (0.01), 		N= 1, J=3/2-3/2, F= 2-- 1+, v = 0, 2Π3/2 -> 2Π3/2	0 	-0.10 	Lovas
+0.722303, CH 2Π v=0,1 states	Methylidyne 	0.722303 (0.01), 		N= 1, J=3/2-3/2, F= 1-- 2+, v = 0, 2Π3/2 -> 2Π3/2	0 	-0.12 	Lovas
+0.724791, CH 2Π v=0,1 states	Methylidyne 	0.724791 (0.004), 		N= 1, J=3/2-3/2, F= 1-- 1+, v = 0, 2Π3/2 -> 2Π3/2	0 	-0.5 	Lovas
+3.263794, CH 2Π v=0,1 states	Methylidyne 	3.263794 (0.003), 		N= 1, J=1/2-1/2, F= 0-- 1+, v = 0, 2Π1/2 -> 2Π1/2	0 	0.24 	Lovas
+3.335481, CH 2Π v=0,1 states	Methylidyne 	3.335481 (0.002), 		N= 1, J=1/2-1/2, F= 1-- 1+, v = 0, 2Π1/2 -> 2Π1/2	0 	0.25 	Lovas
+3.349193, CH 2Π v=0,1 states	Methylidyne 	3.349193 (0.003), 		N= 1, J=1/2-1/2, F= 1-- 0+, v = 0, 2Π1/2 -> 2Π1/2	0 	0.18 	Lovas
+18.017337, NH3 v=0	Ammonia	18.017337 (0.005), 18.017337		7( 3)0a- 7( 3)0s		0.015	0	Lovas
+18.285434, NH3 v=0	Ammonia	18.285434 (0.005), 18.285434		10( 7)0a-10( 7)0s		0.012	0	Lovas
+18.391562, NH3 v=0	Ammonia	18.391562 (0.005), 18.391562		6( 1)0a- 6( 1)0s		0.006	0	Lovas
+18.49939, NH3 v=0	Ammonia	18.49939 (0.05), 18.49939		9( 6)0a- 9( 6)0s		0.3	0	Lovas
+18.808507, NH3 v=0	Ammonia	18.808507 (0.005), 18.808507		8( 5)0a- 8( 5)0s		0.39	0	Lovas
+18.884695, NH3 v=0	Ammonia	18.884695 (0.005), 18.884695		6( 2)0a- 6( 2)0s		0.50	0	Lovas
+19.218465, NH3 v=0	Ammonia	19.218465 (0.005), 19.218465		7( 4)0a- 7( 4)0s		0.6	0	Lovas
+19.757538, NH3 v=0	Ammonia	19.757538 (0.005), 19.757538		6( 3)0a- 6( 3)0s		1.2	0	Lovas
+19.838346, NH3 v=0	Ammonia	19.838346 (0.005), 19.838346		5( 1)0a- 5( 1)0s		0.56	0	Lovas
+20.37145, NH3 v=0	Ammonia	20.37145 (0.1), 20.37145		5( 2)0a- 5( 2)0s		0.9	0	Lovas
+20.719221, NH3 v=0	Ammonia	20.719221 (0.005), 20.719221		8( 6)0a- 8( 6)0s		0.7	0	Lovas
+20.735452, NH3 v=0	Ammonia	20.735452 (0.005), 20.735452		9( 7)0a- 9( 7)0s		0.25	0	Lovas
+20.80483, NH3 v=0	Ammonia	20.80483 (0.05), 20.80483		7( 5)0a- 7( 5)0s		0.8	0	Lovas
+20.852527, NH3 v=0	Ammonia	20.852527 (0.005), 20.852527		10( 8)0a-10( 8)0s		0.17	0	Lovas
+20.994617, NH3 v=0	Ammonia	20.994617 (0.005), 20.994617		6( 4)0a- 6( 4)0s		1.0	0	Lovas
+21.070739, NH3 v=0	Ammonia	21.070739 (0.005), 21.070739		11( 9)0a-11( 9)0s		0.13	0	Lovas
+21.134311, NH3 v=0	Ammonia	21.134311 (0.005), 21.134311		4( 1)0a- 4( 1)0s		0.9	0	Lovas
+21.285275, NH3 v=0	Ammonia	21.285275 (0.005), 21.285275		5( 3)0a- 5( 3)0s		2.1	0	Lovas
+21.703358, NH3 v=0	Ammonia	21.703358 (0.002), 21.703358		4( 2)0a- 4( 2)0s		0.6	0	Lovas
+22.653022, NH3 v=0	Ammonia	22.653022 (0.005), 22.653022		5( 4)0a- 5( 4)0s		0.6	0	Lovas
+22.688312, NH3 v=0	Ammonia	22.688312 (0.005), 22.688312		4( 3)0a- 4( 3)0s		1.2	0	Lovas
+22.732429, NH3 v=0	Ammonia	22.732429 (0.005), 22.732429		6( 5)0a- 6( 5)0s		0.6	0	Lovas
+22.8341851, NH3 v=0	Ammonia	22.8341851 (1.0E-4), 22.8341851		3( 2)0a- 3( 2)0s		0.11	0	Lovas
+22.92494, NH3 v=0	Ammonia	22.92494 (0.05), 22.92494		7( 6)0a- 7( 6)0s		1.0	0	Lovas
+23.098819, NH3 v=0	Ammonia	23.098819 (0.001), 23.098819		2( 1)0a- 2( 1)0s		0.29	0	Lovas
+23.232238, NH3 v=0	Ammonia	23.232238 (0.005), 23.232238		8( 7)0a- 8( 7)0s		0.2	0	Lovas
+23.657471, NH3 v=0	Ammonia	23.657471 (0.005), 23.657471		9( 8)0a- 9( 8)0s		0.1	0	Lovas
+23.6929265, NH3 v=0	Ammonia	23.6929265 (2.0E-4), 23.6929265		1( 1)0a- 1( 1)0s, F1=1-0, F=1/2-1/2		0.16	0	Lovas
+23.6929688, NH3 v=0	Ammonia	23.6929688 (1.0E-4), 23.6929688		1( 1)0a- 1( 1)0s, F1=1-0, F=3/2-1/2		0.24	0	Lovas
+23.6938722, NH3 v=0	Ammonia	23.6938722 (1.0E-4), 23.6938722		1( 1)0a- 1( 1)0s, F1=1-2, F=1/2-3/2		0.17	0	Lovas
+23.6939051, NH3 v=0	Ammonia	23.6939051 (1.0E-4), 23.6939051		1( 1)0a- 1( 1)0s, F1=2-2, F=3/2-5/2		0.30b	0	Lovas
+23.6939145, NH3 v=0	Ammonia	23.6939145 (1.0E-4), 23.6939145		1( 1)0a- 1( 1)0s, F1=1-2, F=3/2-3/2		b	0	Lovas
+23.6944591, NH3 v=0	Ammonia	23.6944591 (1.0E-4), 23.6944591		1( 1)0a- 1( 1)0s, F1=1-1, F=1/2-1/2		b	0	Lovas
+23.69447, NH3 v=0	Ammonia	23.69447 (0.01), 23.69447		1( 1)0a- 1( 1)0s, F1=1-1, F=1/2-3/2		0.40b	0	Lovas
+23.6944709, NH3 v=0	Ammonia	23.6944709 (1.0E-4), 23.6944709		1( 1)0a- 1( 1)0s, F1=2-2, F=3/2-5/2		b	0	Lovas
+23.6944803, NH3 v=0	Ammonia	23.6944803 (1.0E-4), 23.6944803		1( 1)0a- 1( 1)0s, F1=2-2, F=3/2-3/2		b	0	Lovas
+23.6945014, NH3 v=0	Ammonia	23.6945014 (1.0E-4), 23.6945014		1( 1)0a- 1( 1)0s, F1=1-1, F=3/2-1/2		b	0	Lovas
+23.694506, NH3 v=0	Ammonia	23.694506 (0.001), 23.694506		1( 1)0a- 1( 1)0s, F1=2-2, F=5/2-5/2		0.50b	0	Lovas
+23.6945123, NH3 v=0	Ammonia	23.6945123 (1.0E-4), 23.6945123		1( 1)0a- 1( 1)0s, F1=1-1, F=3/2-3/2		b	0	Lovas
+23.6945153, NH3 v=0	Ammonia	23.6945153 (1.0E-4), 23.6945153		1( 1)0a- 1( 1)0s, F1=2-2, F=5/2-3/2		b	0	Lovas
+23.6950672, NH3 v=0	Ammonia	23.6950672 (1.0E-4), 23.6950672		1( 1)0a- 1( 1)0s, F1=2-1, F=3/2-1/2		0.18b	0	Lovas
+23.6950782, NH3 v=0	Ammonia	23.6950782 (1.0E-4), 23.6950782		1( 1)0a- 1( 1)0s, F1=2-1, F=3/2-3/2		b	0	Lovas
+23.6951132, NH3 v=0	Ammonia	23.6951132 (1.0E-4), 23.6951132		1( 1)0a- 1( 1)0s, F1=2-1, F=5/2-3/2		0.25	0	Lovas
+23.6960297, NH3 v=0	Ammonia	23.6960297 (2.0E-4), 23.6960297		1( 1)0a- 1( 1)0s, F1=0-1, F=1/2-1/2		0.29b	0	Lovas
+23.6960406, NH3 v=0	Ammonia	23.6960406 (2.0E-4), 23.6960406		1( 1)0a- 1( 1)0s, F1=0-1, F=1/2-3/2		b	0	Lovas
+23.720575, NH3 v=0	Ammonia	23.720575 (0.005), 23.720575		2( 2)0a- 2( 2)0s, F1=1-2		b	0	Lovas
+23.721336, NH3 v=0	Ammonia	23.721336 (0.005), 23.721336		2( 2)0a- 2( 2)0s, F1=3-2		b	0	Lovas
+23.7226323, NH3 v=0	Ammonia	23.7226323 (5.0E-4), 23.7226323		2( 2)0a- 2( 2)0s, F1=2-2		b	0	Lovas
+23.7226336, NH3 v=0	Ammonia	23.7226336 (1.0E-4), 23.7226336		2( 2)0a- 2( 2)0s, F1=3-3		0.43j	0	Lovas
+23.7226344, NH3 v=0	Ammonia	23.7226344 (5.0E-4), 23.7226344		2( 2)0a- 2( 2)0s, F1=1-1		b	0	Lovas
+23.723929, NH3 v=0	Ammonia	23.723929 (0.005), 23.723929		2( 2)0a- 2( 2)0s, F1=2-3		b	0	Lovas
+23.724691, NH3 v=0	Ammonia	23.724691 (0.005), 23.724691		2( 2)0a- 2( 2)0s, F1=2-1		b	0	Lovas
+23.867805, NH3 v=0	Ammonia	23.867805 (0.005), 23.867805		3( 3)0a- 3( 3)0s, F1=2-3		b	0	Lovas
+23.86845, NH3 v=0	Ammonia	23.86845 (0.05), 23.86845		3( 3)0a- 3( 3)0s, F1=4-3		b	0	Lovas
+23.8701279, NH3 v=0	Ammonia	23.8701279 (5.0E-4), 23.8701279		3( 3)0a- 3( 3)0s, F1=3-3		b	0	Lovas
+23.8701296, NH3 v=0	Ammonia	23.8701296 (1.0E-4), 23.8701296		3( 3)0a- 3( 3)0s, F1=4-4		0.53j	0	Lovas
+23.8701302, NH3 v=0	Ammonia	23.8701302 (5.0E-4), 23.8701302		3( 3)0a- 3( 3)0s, F1=2-2		b	0	Lovas
+23.871807, NH3 v=0	Ammonia	23.871807 (0.005), 23.871807		3( 3)0a- 3( 3)0s, F1=3-4		b	0	Lovas
+23.872453, NH3 v=0	Ammonia	23.872453 (0.005), 23.872453		3( 3)0a- 3( 3)0s, F1=3-2		b	0	Lovas
+24.1394169, NH3 v=0	Ammonia	24.1394169 (1.0E-4), 24.1394169		4( 4)0a- 4( 4)0s		0.25j	0	Lovas
+24.205287, NH3 v=0	Ammonia	24.205287 (0.005), 24.205287		10( 9)0a-10( 9)0s		0.1	0	Lovas
+24.5329887, NH3 v=0	Ammonia	24.5329887 (1.0E-4), 24.5329887		5( 5)0a- 5( 5)0s		0.09j	0	Lovas
+25.056025, NH3 v=0	Ammonia	25.056025 (0.005), 25.056025		6( 6)0a- 6( 6)0s		0.17j	0	Lovas
+25.715182, NH3 v=0	Ammonia	25.715182 (0.005), 25.715182		7( 7)0a- 7( 7)0s		3.	0	Lovas
+26.518981, NH3 v=0	Ammonia	26.518981 (0.01), 26.518981		8( 8)0a- 8( 8)0s		0.70	0	Lovas
+27.477943, NH3 v=0	Ammonia	27.477943 (0.01), 27.477943		9( 9)0a- 9( 9)0s		0.76	0	Lovas
+28.604737, NH3 v=0	Ammonia	28.604737 (0.005), 28.604737		10(10)0a-10(10)0s		0.68	0	Lovas
+29.914486, NH3 v=0	Ammonia	29.914486 (0.005), 29.914486		11(11)0a-11(11)0s		0.44	0	Lovas
+31.424943, NH3 v=0	Ammonia	31.424943 (0.005), 31.424943		12(12)0a-12(12)0s		0.30	0	Lovas
+33.156849, NH3 v=0	Ammonia	33.156849 (0.005), 33.156849		13(13)0a-13(13)0s		0.10	0	Lovas
+35.134303, NH3 v=0	Ammonia	35.134303 (0.01), 35.134303		14(14)0a-14(14)0s		0.06	0	Lovas
+46.1233, NH3 v=0	Ammonia	46.1233 (1.0), 46.1233		18(18)0a-18(18)0s		0.8	0	Lovas

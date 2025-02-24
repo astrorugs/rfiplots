@@ -1,0 +1,134 @@
+243-270	MILSATCOM	satellites	continuous	
+244	Unknown		continuous	
+244.4-260.0	Various, Unknown		continuous	
+299.95	Unknown	VLA local		
+330	ABQ ILS	ABQ airport	intermittent	
+360-380	MUOS	GSO satellites	continuous	
+400.1	Satellite: US time and frequency.			
+400.15-400.60	Radiosonde WX balloons, Met satellites			
+406.1-409.8	Ground meteorological remote sensing stations			
+410.550	VLA mobile 2-way radios			
+419.550	VLA repeater			
+433.990	Unknown commercial 2-way			
+440.005	Unknown Ham repeater			
+442-449	various Ham repeaters			
+451.5	WNMT repeater	Mangus Mtn	480 msec every 10 mins	
+452.3	Socorro fire dispatch relay			
+453.125	ABQ medical			
+460.150	NM State police mobile			
+461.875	Socorro medical helicopter			
+462.775	TeleBEEPER of NM	Socorro Pk		
+470-476	K63GU Alamogordo, K38IM ABQ (TV broadcasts)		continuous
+1000.0	RATSCAT Low FQ	NM, WSMR	Intermittent	plot
+1030	Aeronautical IFF, gnd2air	OHD, Everywhere	Intermittent	plot
+1025-1150	Aircraft navigation DME	DME/VOR sites	intermittent	plot
+1090	Aeronautical IFF, air2gnd	OHD, Everywhere	Intermittent	plot
+1166-1186	GPS,Galileo,GLONASS L5	OHD, MEO	Continuous	plot
+1200	VLA modem	VLA Site	Continuous	plot
+1222.5-1223.5	TARS Pulsed radar	AZ, Ft Huachuca,	Pulsed & intermittent	
+1217-1237	GPS L2	OHD, MEO	Continuous	plot
+1231	AEROSTAT	TX, FT Bliss	Malfunction	plot
+1233.71	FAA ARSR4 radar		Continuous	plot
+1235	AEROSTAT		Malfunction	plot
+1243-1251	GLONASS L2	OHD, MEO	Continuous	plot
+1251.5-1252.5	TARS pulsed radar	NM, Deming	Pulsed & Intermittant	plot
+1254.42	FAA ARSR4 radar	NM, Deming	Continuous	plot
+1262.19	FAA ARSR4 radar	NM, Eagle Peak	Continuous	plot
+1268	COMPASS E6			plot
+1282.5-1283.5	TARS pulsed radar	AZ, Ft Huachuca	Pulsed & Intermittant	
+1291	AEROSTAT	TX, FT Bliss	Malfunction	plot
+1295	AEROSTAT	TX, FT Bliss	Malfunction	plot
+1310	FAA ASR radar	NM, Albuquerque	Continuous	plot
+1311.5-1312.5	TARS pulsed radar	NM, Deming	Pulsed & Intermittant	plot
+1317	FAA ARSR4 radar		Continuous	plot
+1330	FAA ASR radar	NM, Albuquerque		plot
+1337.28	FAA ARSR4 radar	NM, Deming	Continuous	plot
+1345.04	FAA ARSR4 radar	NM, Eagle Peakk	Continuous	plot
+1357	WSMR RAJPO transponder	NM, WSMR	Intermittent	plot
+1365	WSMR RAJPO transponder	NM, WSMR	Intermittent	plot
+1369	WSMR RAJPO transponder	NM, WSMR	Intermittent	plot
+1376-1386	GPS L3 NUDET	OHD	Intermittent	plot
+1385	WSMR RAJPO transponder	NM, WSMR	Intermittent	plot
+1393	WSMR RAJPO transponder	NM, WSMR	Intermittent	plot
+1400	internal birdie	ea13	continuous	
+1408	internal birdie	numerous antennas	continuous	
+1432.5	WSMR RAJPO transponder	NM, WSMR	Intermittent	plot
+1437-1453	WSMR telemetry	NM, WSMR	Intermittent	plot
+1444.5	High alt balloon	NM, FT Sumner	Intermittent	plot
+1448.5	Test telemetry	NM, FT Bliss	Intermittent	plot
+1452.5	Test telemetry	NM, FT Bliss	Intermittent	plot
+1453.5	High alt baloon	NM, FT Sumner	Intermittent	plot
+1460.5	Test telemetry	NM, FT Bliss	Intermittent	plot
+1501.5	High alt baloon	NM, FT Sumner	Intermittent	plot
+1504.5	WSMR jamming telemetry	NM, WSMR	Intermittent	plot
+1515.5	High alt baloon	NM, FT Sumner	Intermittent	plot
+1525-1564	INMARSAT satellites			plot
+1525.5	High alt baloon	NM, FT Sumner	Intermittent	plot
+1529.5	Test telemetry	NM, FT Bliss	Intermittent	plot
+1530.5	WSMR jamming telemetry	NM, WSMR	Intermittent	plot
+1565.42	GPS L1 jamming	NM, WSMR	Continuous	plot
+1564-1586	GPS L1	OHD	Continuous	plot
+1585.42	GPS L1 jamming	NM, WSMR	Continuous	plot
+1606.0	GLONASS L1	OHD	Continuous	plot
+1616.0	GLONASS L1	OHD	Continuous	plot
+1618-1627	IRIDIUM satellites	OHD	Continuous	plot
+1642	2nd harmonic VLA radios		Sporadic	plot
+1668-1680	RADIOSONDES- WX baloons		Intermittent	plot
+1683-1687	GOES weather satellite			plot
+1689-1693	GOES weather satellite			plot
+1700-1702	NOAA weather satellite			plot
+1705-1709	NOAA weather satellite			plot
+1771.0	High alt baloon	NM, FT Sumner	Intermittent	plot
+1850-1990	PCS cell phone base stations	Everywhere	Continuous	plot
+2178.0-2195.0	??		Intermittent	plot
+2106.4	High alt baloon	NM, FT Sunmer	Intermittent	plot
+2204.5	Test telemetry	NM, FT Bliss	Intermittent	plot
+2180-2290	Satellite downlink	OHD?GSO/MEO	Continuous	plot
+2227.5-2231.5	??	NM, WSMR?	Intermittent	plot
+2246.5-2252.5	??	NM, WSMR?	Intermittent	plot
+2268.5-2274.5	??	NM, WSMR?	Intermittent	
+2282.5-2288.5	??	NM, WSMR?	Intermittent	
+2314.5-2320.5	??	NM, WSMR?	Intermittent	
+2320.0-2332.5	Sirius DARS	OHD/GSO-Tundra	Continous	plot
+2324.5-2330.5	??	NM, WSMR?	Intermittent	
+2332.5-2345.0	XM DARS	OHD/GSO-Equatoral	Continuous	plot
+2334.5-2340.5	??	NM, WSMR?	Intermittent	
+2387.5	High alt baloon	NM, FT Sunmer	Intermittent	
+2400.0-2483.5	Microwave Ovens	Everywhere	Intermittent	plot
+2400.0-2483.5	WiFi(802.11b) Wireless	Everywhere	Intermittent	plot
+2411.0-2413.0	Hughes Net WiFi	Ranch houses	Continuous	
+2483.5-2500.0	GlobalStar downlink	Everywhere	Continuous	
+2741	ABQ NEXRAD1	ABQ	Intermittent	
+2791	ABQ NEXRAD1	ABQ	Intermittent	
+3700.0-4200.0	Satellite downlinks	OHD	Continuous	plot1, plot2, plot3
+3700.0-4200.0	Satellite downlinks	OHD	Continuous	plot1, plot2
+5648.5-5663.5	??	NM, WSMR?	Intermittent	
+5659.5-5670.5	??	NM, WSMR?	Intermittent	
+5695.5-5704.5	??	NM, WSMR?	Intermittent	
+5742.5-5757.5	??	NM, WSMR?	Intermittent	
+5765-5769	ISM, Wireless Phone?		Intermittent	plot
+5796.0-5804.0	??	NM, WSMR?	Intermittent	
+6108.1-6138.1	Microwave Link	Mangus Mtn,NM	Continuous	plot
+6137.75-6167.75	Microwave Link	Mangus Mtn,NM	Continuous	
+6182-6212	Microwave Link	Gray Hill, NM	Continuous	
+6360.14-6390.14	Microwave Link	Gray Hill, NM	Continuous	
+6389.79-6419.79	Microwave Link	Gray Hill, NM	Continuous	plot
+6772.0-6778.0	Microwave Link	Datil/Bagley, NM	Continuous	plot
+7250.0-7850.0	Mil Sat & Met downlinks: GSO & MSS	OHD	Continuous	plot
+9300-9900	SAR mapping satellites	OHD	Intermittent	
+9300-9500	airborne weather radars		Intermittent	plot
+10740-10770	Microwave link	Granite Mtn	Continuous	
+10820-10850	Microwave link	Granite Mtn	Continuous	
+10957-10993	Microwave link	Davenport Pk	Continuous	
+11037-11073	Microwave link	Davenport Pk	Continuous	
+11230-11260	Microwave link	Grayhill	Continuous	
+11310-11340	Microwave link	Grayhill	Continuous	
+11447-11483	Microwave link	Pie Town	Continuous	
+11527-11563	Microwave link	Pie Town	Continuous	
+11700-12000	Strong RFI all along the geostationary orbit path	Satellites	Continuous
+12000-12700	strong RFI all along the geostationary orbit (GSO) path	Satellites	Continuous	plot
+13400-13750	CryoSat-2 radar mapping satellite	Overhead	Intermittent
+17800-20200	Satellite downlink	Clarke Belt	continuous
+29500-30000	local Wildblue VSAT	Local residences	Intermittent	
+34875	Internal (June 2 to Oct. 8, 2010)	Antenna EA10	Continuous	plot
+36286	Internal (June 2 to Oct. 8, 2010)	Antenna EA10	Continuous	plot
