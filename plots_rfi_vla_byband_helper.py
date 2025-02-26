@@ -67,7 +67,7 @@ color_scale = px.colors.sample_colorscale('Turbo',np.random.random(100))
 
 
 ############# plot data #############
-
+count = 0
 for m,config in enumerate(configs):
     sub_dates = [_ for _ in dates if ((datetime.datetime.fromisoformat(config[1][0])<datetime.datetime.fromisoformat(_)) &
                              (datetime.datetime.fromisoformat(config[1][1])>datetime.datetime.fromisoformat(_)))]
@@ -85,7 +85,7 @@ for m,config in enumerate(configs):
                 jumps = np.append(0,np.nonzero(fdiff != np.median(fdiff))[0]+1) # register all jumps, add first channel
                 juord = np.append(jumps[np.argsort(f[jumps])],len(f)) # re-order jumps, add last channel
                 for j in range(len(jumps)-1):
-                    fig.add_trace(go.Line(x=f[jumps[j]:jumps[j+1]]/1000., y=10.*np.log10(a[jumps[j]:jumps[j+1]]), line=dict(width=0.5,color=color_scale[i]),  name= key+' '+config[0], legendgroup=f'group{i}',showlegend=False),row=1, col=1)
+                    fig.add_trace(go.Line(x=f[jumps[j]:jumps[j+1]]/1000., y=10.*np.log10(a[jumps[j]:jumps[j+1]]), line=dict(width=0.5,color=color_scale[i]),  name= key+' '+config[0], legendgroup=f'group{count}',showlegend=False),row=1, col=1)
     
         # LL
         flist = list(dbp[(dbp.date == key) & (dbp.pol=='LL')]['freq'])
@@ -98,8 +98,10 @@ for m,config in enumerate(configs):
                 jumps = np.append(0,np.nonzero(fdiff != np.median(fdiff))[0]+1) # register all jumps, add first channel
                 juord = np.append(jumps[np.argsort(f[jumps])],len(f)) # re-order jumps, add last channel
                 for j in range(len(jumps)-1):
-                    fig.add_trace(go.Line(x=f[jumps[j]:jumps[j+1]]/1000., y=10.*np.log10(a[jumps[j]:jumps[j+1]]), line=dict(width=0.5,color=color_scale[i]),  name= key+' '+config[0], legendgroup=f'group{i}',showlegend=(k == 0 and j==0)),row=2, col=1)
-
+                    fig.add_trace(go.Line(x=f[jumps[j]:jumps[j+1]]/1000., y=10.*np.log10(a[jumps[j]:jumps[j+1]]), line=dict(width=0.5,color=color_scale[i]),  name= key+' '+config[0], legendgroup=f'group{count}',showlegend=(k == 0 and j==0)),row=2, col=1)
+        
+        # count for legend
+        count+=1
 
 ############## plot VLA bands ############ 
 # bands
